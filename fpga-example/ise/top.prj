@@ -1,0 +1,3 @@
+verilog work "../src/uart.v"
+verilog work "../src/digital_tube.v"
+verilog work "../src/top.v"
